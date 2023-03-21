@@ -1,6 +1,6 @@
 ### Hi, I'm Jaimish
 
-Recenly graduated from Douglas college, British columbia, Canada. I have worked in may different project during my college time using many different languages: Rect Js, android, CSS, Html, Javascript, Node JS, C#.
+Recenly graduated from Douglas college, British columbia, Canada. I have worked in may different project during my college time using many different languages: Rect Js,  Node JS, express.js, CSS, Html, Javascript, C#, android, etc.
 
 Currenly I am working on full stack web project which is based on employee managemnet CRM sytem.
 
